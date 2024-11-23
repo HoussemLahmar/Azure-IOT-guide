@@ -6,7 +6,7 @@ The Azure IoT Lab is designed to help students and businesses practice working w
 
 ## 1. Architecture Design
 
-### Objectives:
+### Objectives of the project:
 - Define the overall architecture of the lab environment.
 - Identify necessary components (sensors, devices, platforms).
 - Create a topology diagram for the IoT Hub.
@@ -147,7 +147,7 @@ The website will contain:
 3. **Practical Guides**: Step-by-step instructions for each component of the lab.
 4. **Use Examples**: Demonstrations and practical use cases.
 
-### Example Architecture Diagram (Mermaid):
+### Example Architecture Diagram:
 
 ```mermaid
 graph TB
